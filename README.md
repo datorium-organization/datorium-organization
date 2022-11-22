@@ -1,5 +1,5 @@
 - 👋 Hi, we are @datorium-organization
-- we are tge leading coding school for high school students in Baltics
+- we are the leading coding school for high school students in Baltics
 - 👀 We are a community of teens and students enthusiastic in coding and development.
 - 🌱 We are fast growing community with thousands of members.
 - 📫 Simply join our dedicated Discord server https://join.datorium.eu/discord
